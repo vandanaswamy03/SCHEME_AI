@@ -1,0 +1,222 @@
+Category: SC
+Community: Scheduled Caste
+Scheme Name: SC Post-Matric Scholarship
+Target: SC students
+Purpose: Financial support for students pursuing post-matric education
+Eligibility: Eligible SC students according to current Telangana government rules
+Benefits: Educational financial assistance as applicable
+Documents: Caste certificate, income certificate, Aadhaar and education-related documents as required
+Application: Apply through the applicable Telangana government scholarship system
+
+Category: SC
+Community: Scheduled Caste
+Scheme Name: SC Pre-Matric Scholarship
+Target: SC students
+Purpose: Educational support for eligible school students
+Eligibility: Eligible SC students according to current Telangana government rules
+Benefits: Financial assistance for school education as applicable
+Documents: Caste certificate, income certificate, Aadhaar and school-related documents as required
+Application: Apply through the applicable Telangana government scholarship system
+
+Category: SC
+Community: Scheduled Caste
+Scheme Name: SC Land Purchase Scheme
+Target: Eligible SC women from poor families
+Purpose: Support for land ownership and livelihood development
+Eligibility: Eligible SC beneficiaries according to current Telangana government rules
+Benefits: Land and livelihood support as applicable
+Documents: Caste certificate, income certificate, Aadhaar, land-related documents and other required documents
+Application: Apply through the concerned Telangana government department
+
+Category: SC
+Community: Scheduled Caste
+Scheme Name: SC Economic Support Scheme
+Target: Eligible SC beneficiaries
+Purpose: Support for self-employment and income-generating activities
+Eligibility: Eligible SC beneficiaries according to current Telangana government rules
+Benefits: Financial/economic assistance as applicable
+Documents: Caste certificate, income certificate, Aadhaar, bank details and required project documents
+Application: Apply through the concerned Telangana government department
+
+Category: ST
+Community: Scheduled Tribe
+Scheme Name: ST Post-Matric Scholarship
+Target: ST students
+Purpose: Financial support for students pursuing post-matric education
+Eligibility: Eligible ST students according to current Telangana government rules
+Benefits: Educational financial assistance as applicable
+Documents: Caste certificate, income certificate, Aadhaar and education-related documents as required
+Application: Apply through the applicable Telangana government scholarship system
+
+Category: ST
+Community: Scheduled Tribe
+Scheme Name: ST Pre-Matric Scholarship
+Target: ST students
+Purpose: Educational support for eligible school students
+Eligibility: Eligible ST students according to current Telangana government rules
+Benefits: Financial assistance for school education as applicable
+Documents: Caste certificate, income certificate, Aadhaar and school-related documents as required
+Application: Apply through the applicable Telangana government scholarship system
+
+Category: ST
+Community: Scheduled Tribe
+Scheme Name: Tribal Welfare Residential Schools
+Target: ST students
+Purpose: Provide residential education and academic support
+Eligibility: Eligible ST students according to current Telangana government rules
+Benefits: Residential education and related facilities as applicable
+Documents: Caste certificate, income certificate, Aadhaar and school-related documents
+Application: Apply through the concerned Tribal Welfare department
+
+Category: ST
+Community: Scheduled Tribe
+Scheme Name: ST Economic Support Scheme
+Target: Eligible ST beneficiaries
+Purpose: Support livelihood and self-employment activities
+Eligibility: Eligible ST beneficiaries according to current Telangana government rules
+Benefits: Economic assistance as applicable
+Documents: Caste certificate, income certificate, Aadhaar, bank details and required project documents
+Application: Apply through the concerned Tribal Welfare department
+
+Category: BC-A
+Community: Backward Class Group A
+Scheme Name: BC Welfare Educational Schemes
+Target: BC-A students
+Purpose: Educational and financial support
+Eligibility: Eligible BC-A students according to current Telangana government rules
+Benefits: Scholarships, educational support and related facilities as applicable
+Documents: BC certificate, income certificate, Aadhaar and education-related documents
+Application: Apply through the applicable Telangana government scholarship system
+
+Category: BC-B
+Community: Backward Class Group B
+Scheme Name: BC Welfare Educational Schemes
+Target: BC-B students
+Purpose: Educational and financial support
+Eligibility: Eligible BC-B students according to current Telangana government rules
+Benefits: Scholarships, educational support and related facilities as applicable
+Documents: BC certificate, income certificate, Aadhaar and education-related documents
+Application: Apply through the applicable Telangana government scholarship system
+
+Category: BC-C
+Community: Backward Class Group C
+Scheme Name: BC Welfare Educational Schemes
+Target: BC-C students
+Purpose: Educational and financial support
+Eligibility: Eligible BC-C students according to current Telangana government rules
+Benefits: Scholarships, educational support and related facilities as applicable
+Documents: BC certificate, income certificate, Aadhaar and education-related documents
+Application: Apply through the applicable Telangana government scholarship system
+
+Category: BC-D
+Community: Backward Class Group D
+Scheme Name: BC Welfare Educational Schemes
+Target: BC-D students
+Purpose: Educational and financial support
+Eligibility: Eligible BC-D students according to current Telangana government rules
+Benefits: Scholarships, educational support and related facilities as applicable
+Documents: BC certificate, income certificate, Aadhaar and education-related documents
+Application: Apply through the applicable Telangana government scholarship system
+
+Category: BC-E
+Community: Backward Class Group E
+Scheme Name: BC Welfare Educational Schemes
+Target: BC-E students
+Purpose: Educational and financial support
+Eligibility: Eligible BC-E students according to current Telangana government rules
+Benefits: Scholarships, educational support and related facilities as applicable
+Documents: BC certificate, income certificate, Aadhaar and education-related documents
+Application: Apply through the applicable Telangana government scholarship system
+
+Category: BC
+Community: Backward Classes
+Scheme Name: BC Post-Matric Scholarship
+Target: Eligible BC students
+Purpose: Financial support for post-matric education
+Eligibility: Eligible BC students according to current Telangana government rules
+Benefits: Educational financial assistance as applicable
+Documents: BC certificate, income certificate, Aadhaar and education-related documents
+Application: Apply through the applicable Telangana government scholarship system
+
+Category: BC
+Community: Backward Classes
+Scheme Name: BC Pre-Matric Scholarship
+Target: Eligible BC students
+Purpose: Educational support for eligible school students
+Eligibility: Eligible BC students according to current Telangana government rules
+Benefits: Financial assistance for school education as applicable
+Documents: BC certificate, income certificate, Aadhaar and school-related documents
+Application: Apply through the applicable Telangana government scholarship system
+
+Category: BC
+Community: Backward Classes
+Scheme Name: BC Residential Schools
+Target: Eligible BC students
+Purpose: Provide residential education
+Eligibility: Eligible BC students according to current Telangana government rules
+Benefits: Residential education and related facilities as applicable
+Documents: BC certificate, income certificate, Aadhaar and school-related documents
+Application: Apply through the concerned BC Welfare department
+
+Category: BC
+Community: Backward Classes
+Scheme Name: BC Free Coaching
+Target: Eligible BC students and job aspirants
+Purpose: Preparation for competitive examinations
+Eligibility: Eligible BC candidates according to current Telangana government rules
+Benefits: Free or supported coaching as applicable
+Documents: BC certificate, income certificate, Aadhaar and educational documents
+Application: Apply through the concerned BC Welfare department
+
+Category: Minority
+Community: Minority Communities
+Scheme Name: Minority Post-Matric Scholarship
+Target: Eligible minority students
+Purpose: Financial support for post-matric education
+Eligibility: Eligible minority students according to current Telangana government rules
+Benefits: Educational financial assistance as applicable
+Documents: Minority-related certificate/documents, income certificate, Aadhaar and education-related documents
+Application: Apply through the applicable Telangana government scholarship system
+
+Category: Minority
+Community: Minority Communities
+Scheme Name: Minority Residential Institutions
+Target: Eligible minority students
+Purpose: Provide residential education and academic support
+Eligibility: Eligible minority students according to current Telangana government rules
+Benefits: Residential education and related facilities as applicable
+Documents: Minority-related certificate/documents, income certificate, Aadhaar and school-related documents
+Application: Apply through the concerned Minorities Welfare department
+
+Category: Minority
+Community: Minority Communities
+Scheme Name: Minority Economic Assistance
+Target: Eligible minority beneficiaries
+Purpose: Support self-employment and economic development
+Eligibility: Eligible minority beneficiaries according to current Telangana government rules
+Benefits: Economic assistance, training or support as applicable
+Documents: Minority-related documents, income certificate, Aadhaar, bank details and required project documents
+Application: Apply through the concerned Minorities Welfare department
+
+Category: Minority
+Community: Minority Communities
+Scheme Name: Minority Coaching Programmes
+Target: Eligible minority students and candidates
+Purpose: Preparation for competitive examinations and career opportunities
+Eligibility: Eligible minority candidates according to current Telangana government rules
+Benefits: Coaching and academic support as applicable
+Documents: Minority-related documents, income certificate, Aadhaar and educational documents
+Application: Apply through the concerned Minorities Welfare department
+
+Category: Minority
+Community: Christian Minority
+Scheme Name: Christian Minority Finance Corporation Schemes
+Target: Eligible Christian minority beneficiaries
+Purpose: Economic assistance, training and self-employment support
+Eligibility: Eligible beneficiaries according to current Telangana government rules
+Benefits: Economic assistance or training as applicable
+Documents: Minority/community certificate or required proof, income certificate, Aadhaar, bank details and other required documents
+Application: Apply through the concerned Telangana government department
+
+Note:
+This dataset is intended for SCHEME AI recommendation and RAG retrieval. Eligibility, benefits, income limits, application procedures and required documents may change. Always verify the latest official Telangana government notification before applying.
